@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "jEYXCaAT#kFNUCgGg1YWOjpTHDNRJbsLjbjFiOKQ6yI8xapmNah4"
     },  
     
     "ALIVE_IMG": {
@@ -88,14 +88,14 @@
     "OWNER_REACT": {
       "description": "Make it true if you want bot OwnerReact.",
       "required": true,
-      "value": "true"
+      "value": "false"
     
     }, 
 
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ✦"
+      "value": "*BROKEN XD*🥰🖤"
     }, 
 
     "HEART_REACT": {
